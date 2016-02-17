@@ -1,5 +1,6 @@
 
 ## node-crawler
+[![Build Status](https://img.shields.io/travis/aaronice/node-crawler/master.svg)](https://travis-ci.org/aaronice/node-crawler)
 
 Node.js web crawler experiment
 
