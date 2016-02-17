@@ -18,6 +18,12 @@ Open browser with
 http://localhost:3000/crawler
 ```
 
+## Package Dependencies
+
+- [node-simplecrawler](https://github.com/cgiffard/node-simplecrawler)
+- [cheerio](https://github.com/cheeriojs/cheerio)
+
+
 ## Acknowlegement
 
 - [node-simplecrawler](https://github.com/cgiffard/node-simplecrawler)
