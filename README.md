@@ -32,3 +32,4 @@ http://localhost:3000/crawler
 - [Node.js Web Crawler Tutorials](https://potentpages.com/web-crawler-tutorials/nodejs/)
 - [Web Scraping With Node.js](https://www.smashingmagazine.com/2015/04/web-scraping-with-nodejs/)
 - [Building a web client (a crawler) using Node.js](http://code-maven.com/building-a-crawler-in-nodejs)
+- [Scraping the Web With Node.js](https://scotch.io/tutorials/scraping-the-web-with-node-js)
