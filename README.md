@@ -13,6 +13,13 @@ Run
 npm install
 ```
 
+To install all dependencies, and then run
+
+```
+npm start
+```
+To start server.
+
 Open browser with
 
 ```
